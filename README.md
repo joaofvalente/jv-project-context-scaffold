@@ -117,12 +117,6 @@ This is the main benefit. When you come back tomorrow, or next week, or switch t
 
 No more *"As I mentioned in our previous conversation..."* — the AI just knows.
 
-### Running Multiple Tasks in Parallel
-
-You can have several Claude sessions going at the same time, each working on different parts of the project. They all read from and write to the same context files, so they stay aware of each other's work.
-
-For example, one session might be building a new feature while another is fixing bugs. Each one knows what the other is doing, and they won't step on each other's toes.
-
 ### Getting Reports
 
 Every significant event gets recorded in a structured activity log. You can ask the AI to turn this into a report anytime:
