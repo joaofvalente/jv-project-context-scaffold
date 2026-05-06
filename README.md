@@ -195,10 +195,10 @@ your-project/
 │   ├── state.md                           # Current status (always read by AI)
 │   ├── write-policy.md                    # Rules for how the AI updates context
 │   ├── knowledge/                         # Project knowledge (read when relevant)
-���   │   ├── INDEX.md                       # List of available knowledge files
+│   │   ├── INDEX.md                       # List of available knowledge files
 │   │   ├── decisions.md                   # Technical decisions and rationale
 │   │   ├── conventions.md                 # Code patterns and standards
-│   ��   ├── lessons.md                     # Failed approaches and why
+│   │   ├── lessons.md                     # Failed approaches and why
 │   │   ├── architecture.md               # System structure and data flow
 │   │   └── tech-debt.md                  # Shortcuts that need fixing
 │   ├── log.jsonl                          # Structured activity log (for reports)
